@@ -34,12 +34,35 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="60" alt="git logo"  />
   <img width="13" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" height="60" alt="github logo"  />
+  <img width="13" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="60" alt="html5 logo"  />
+  <img width="13" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="60" alt="css logo"  />
+  <img width="13" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="60" alt="javascript logo"  />
 </div>
 
 ###
 
 <div data-importer="image" align="center">
   <img data-importer="image" height="286" src="https://cdn.discordapp.com/attachments/1232100071164870667/1542214424981405758/ec1e6b1e-4eef-48fc-b79f-4d016c9d49a5_removalai_preview.png?ex=6a906a9b&is=6a8f191b&hm=aef80e93344ae836efe28189f5a67f830ad5440da90fcb4982116ca74fef199e&"  />
+</div>
+
+###
+
+<div data-importer="socials" align="left">
+  <a href="https://www.linkedin.com/in/nostromis-sm-9b7121365/" target="_blank">
+    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="52" height="40" alt="linkedin logo"  />
+  </a>
+  <a href="https://x.com/Nostromis1" target="_blank">
+    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/twitter/default.svg" width="52" height="40" alt="twitter logo"  />
+  </a>
+  <a href="https://tryhackme.com/p/nostromissocials" target="_blank">
+    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/tryhackme/default.svg" width="52" height="40" alt="tryhackme logo"  />
+  </a>
+  <a href="https://linktr.ee/Nostromis" target="_blank">
+    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linktree/default.svg" width="52" height="40" alt="linktree logo"  />
+  </a>
 </div>
 
 ###
