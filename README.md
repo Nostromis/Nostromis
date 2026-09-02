@@ -10,7 +10,7 @@
 
 ###
 
-<h4 data-importer="text" align="left">Backend developer, still figuring it out. Interested in how things work under the hood, backend systems, databases, networks, and the ways all of it can be made to fail.<br><br>Build it. Break it. Understand it. Make it better.</h4>
+<h4 data-importer="text" align="left">Backend developer, still figuring it out. Interested in how things work under the hood, backend systems, databases, networks, and the ways all of it can be made to fail.<br><br>You can think of me as An Idiosyncratic Atelophobic Nerd</h4>
 
 ###
 
