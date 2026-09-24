@@ -45,7 +45,7 @@
 ###
 
 <div data-importer="image" align="center">
-  <img data-importer="image" height="286" src="https://cdn.discordapp.com/attachments/1232100071164870667/1542214424981405758/ec1e6b1e-4eef-48fc-b79f-4d016c9d49a5_removalai_preview.png?ex=6a906a9b&is=6a8f191b&hm=aef80e93344ae836efe28189f5a67f830ad5440da90fcb4982116ca74fef199e&"  />
+  <img data-importer="image" height="286" src="https://github.com/Nostromis/Nostromis/blob/main/iusearch.png&"  />
 </div>
 
 ###
