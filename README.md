@@ -45,7 +45,7 @@
 ###
 
 <div data-importer="image" align="center">
-  <img data-importer="image" height="286" src="https://github.com/Nostromis/Nostromis/blob/main/iusearch.png&"  />
+  <img data-importer="image" height="286" src="https://github.com/Nostromis/Nostromis/blob/main/iusearch.png"  />
 </div>
 
 ###
